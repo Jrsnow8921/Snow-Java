@@ -1,6 +1,6 @@
 {
-  "name": "Getting Started with Java on Heroku",
-  "description": "A barebones Java app, which can easily be deployed to Heroku.",
+  "name": "Welcome to Snow-java",
+  "description": "Snow-Java",
   "image": "heroku/java",
   "addons": [ "heroku-postgresql" ]
 }
